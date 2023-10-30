@@ -1,2 +1,3 @@
-# XWorm-Source-Code
-(XWorm SRC) From The Archive
+# XWorm Ransomware Source Code
+(XWorm Ransomware SRC) From The Archive
+## Eenjoy 😈.
